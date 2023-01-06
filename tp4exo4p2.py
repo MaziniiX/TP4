@@ -14,7 +14,6 @@ for n in range(len(L1)):
             temp = compte
             res = L1[n]
 print("Le nombre le plus fréquent dans la liste est le : {} ({} x)".format(res,compte))
-
 """ ** ** ** ** ** ** ** ** ** ** ** ** ** ** ** ** ** ** ** ** ** *
 * Ne rien modifier apres cette ligne.
 ** ** ** ** ** ** ** ** ** ** ** ** ** ** ** ** ** ** ** ** ** *"""
